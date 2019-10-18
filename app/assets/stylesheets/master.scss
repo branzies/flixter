@@ -77,3 +77,19 @@ h1, h2, h3, h4, h5, h6{
   padding-left: 5%;
   padding-right: 5%;
 }
+
+.booyah-box {
+  -moz-box-shadow: 1px 1px 2px 0 #d0d0d0;
+  -webkit-box-shadow: 1px 1px 2px 0 #d0d0d0;
+  box-shadow: 1px 1px 2px 0 #d0d0d0;
+  background: #fff;
+  margin-top: 20px;
+}
+
+.booyah-box h2, .booyah-box h1 {
+  margin-top: 10px;
+}
+
+.form-actions{
+  margin-top: 15px;
+  }
